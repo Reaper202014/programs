@@ -13,30 +13,30 @@ public:
 class Goblin : public BaseEnemy {
 public:
     void Damage() override {
-        cout << "Гоблин наносит урон" << std::endl;
+        cout << "Гоблин наносит урон" << endl;
     }
 
     void Die() override {
-        cout << "Гоблин умирает" << std::endl;
+        cout << "Гоблин умирает" << endl;
     }
 
     void ChasePlayer() override {
-        cout << "Гоблин гонится за игроком" << std::endl;
+        cout << "Гоблин гонится за игроком" << endl;
     }
 };
 
 class Ogre : public BaseEnemy {
 public:
     void Damage() override {
-        cout << "Огр наносит мощный удар" << std::endl;
+        cout << "Огр наносит мощный удар" << endl;
     }
 
     void Die() override {
-        cout << "Огр падает на землю" << std::endl;
+        cout << "Огр падает на землю" << endl;
     }
 
     void ChasePlayer() override {
-        cout << "Огр медленно идёт к игроком" << std::endl;
+        cout << "Огромный огр медленно идёт к игроку" << endl;
     }
 };
 

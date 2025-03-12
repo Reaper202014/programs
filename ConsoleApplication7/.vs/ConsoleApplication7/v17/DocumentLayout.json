@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Games\\C\u002B\u002B\\programs\\ConsoleApplication7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F764F0B4-BC82-419B-91AA-630C673217E6}|ConsoleApplication7.vcxproj|C:\\Games\\C\u002B\u002B\\programs\\ConsoleApplication7\\ConsoleApplication7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F764F0B4-BC82-419B-91AA-630C673217E6}|ConsoleApplication7.vcxproj|solutionrelative:ConsoleApplication7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D1551B48-7450-474C-8EBA-5EBE6EB765B4}|ConsoleApplication7.vcxproj|C:\\Games\\C\u002B\u002B\\programs\\ConsoleApplication7\\ConsoleApplication7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D1551B48-7450-474C-8EBA-5EBE6EB765B4}|ConsoleApplication7.vcxproj|solutionrelative:ConsoleApplication7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +24,9 @@
               "RelativeDocumentMoniker": "ConsoleApplication7.cpp",
               "ToolTip": "C:\\Games\\C\u002B\u002B\\programs\\ConsoleApplication7\\ConsoleApplication7.cpp",
               "RelativeToolTip": "ConsoleApplication7.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-12T15:42:30.998Z",
+              "WhenOpened": "2025-03-12T17:01:16.154Z",
               "EditorCaption": ""
             }
           ]
